@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "157447779265",
+    "project_id": "alert-sos-acfc1",
+    "storage_bucket": "alert-sos-acfc1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:157447779265:android:384a570ba1bff04cb87540",
+        "android_client_info": {
+          "package_name": "com.teamhustle.alertsos"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "157447779265-dch2fovmnrt0b7o5uk8q9la2uc2gvv13.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.teamhustle.alertsos",
+            "certificate_hash": "a735fc95b3367a73fabc4ca5c8ee159e4249e22b"
+          }
+        },
+        {
+          "client_id": "157447779265-b4n4tuh9vsiip3u01ma43ngb7napv2m9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDHyrZSFlfOWFKTZscHJCV1-9wFsObp6YE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "157447779265-b4n4tuh9vsiip3u01ma43ngb7napv2m9.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

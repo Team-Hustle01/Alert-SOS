@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".Developers">
+    
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+
+    <LinearLayout
+        android:orientation="vertical"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+
+
+        <ImageView
+            android:layout_marginTop="20dp"
+            android:layout_width="match_parent"
+            android:layout_height="300dp"
+            android:src="@drawable/pagla"/>
+
+        <TextView
+            android:textStyle="bold"
+            android:typeface="serif"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:gravity="center"
+            android:text="Developer"
+            android:textColor="#000000"
+            android:textSize="20sp" />
+
+        <TextView
+            android:textStyle="italic"
+            android:typeface="serif"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:gravity="center"
+            android:text="Md Sohag Hosen"
+            android:textColor="#000000"
+            android:textSize="15sp" />
+
+        <TextView
+            android:textStyle="italic"
+            android:typeface="serif"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:gravity="center"
+            android:text="191-15-12671"
+            android:textColor="#000000"
+            android:textSize="15sp" />
+
+
+
+        <ImageView
+            android:layout_marginTop="20dp"
+            android:layout_width="match_parent"
+            android:layout_height="300dp"
+            android:src="@drawable/pagi"/>
+        <TextView
+            android:textStyle="bold"
+            android:typeface="serif"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:gravity="center"
+            android:text="Designer"
+            android:textColor="#000000"
+            android:textSize="20sp" />
+
+        <TextView
+            android:textStyle="italic"
+            android:typeface="serif"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:gravity="center"
+            android:text="Suraiya Jerin"
+            android:textColor="#000000"
+            android:textSize="15sp" />
+
+        <TextView
+            android:layout_marginBottom="20dp"
+            android:textStyle="italic"
+            android:typeface="serif"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:gravity="center"
+            android:text="191-15-12750"
+            android:textColor="#000000"
+            android:textSize="15sp" />
+
+
+    </LinearLayout>
+
+</ScrollView>
+
+</LinearLayout>
